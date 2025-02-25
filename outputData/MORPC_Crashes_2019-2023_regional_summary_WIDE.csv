@@ -1,0 +1,1211 @@
+Year,NLF_COUNTY_CD,CRASH_TYPE_CD,ODPS_TOTAL_FATALITIES_NBR,INCAPAC_INJURIES_NBR,NON_INCAPAC_INJURIES_NBR,POSSIBLE_INJURIES_NBR,NO_INJURY_REPORTED_NBR,CRASH_COUNT
+2019,Delaware,Rear End,1,8,170,308,3415,1268
+2019,Delaware,Angle,2,15,184,140,1139,507
+2019,Delaware,Animal,0,1,6,16,419,322
+2019,Delaware,Backing,0,0,2,4,263,131
+2019,Delaware,Fixed Object,4,22,122,62,648,640
+2019,Delaware,Head On,0,7,41,31,158,65
+2019,Delaware,Left Turn,0,8,76,66,486,229
+2019,Delaware,Other Non-Collision,0,0,5,3,80,60
+2019,Delaware,Other Object,0,0,0,2,56,29
+2019,Delaware,Overturning,0,3,10,4,7,19
+2019,Delaware,Parked Vehicle,0,3,5,3,128,116
+2019,Delaware,Pedalcycles,3,5,10,5,38,25
+2019,Delaware,Pedestrian,1,6,14,7,34,25
+2019,Delaware,Right Turn,0,0,11,17,323,111
+2019,Delaware,Sideswipe - Meeting,1,0,2,0,19,7
+2019,Delaware,Sideswipe - Passing,0,1,42,46,1170,432
+2019,Delaware,Train,1,0,0,0,1,1
+2019,Delaware,Unknown,0,0,0,1,36,22
+2019,Delaware,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Delaware,Other Non-Vehicle,0,0,0,0,0,0
+2019,Delaware,Motorized,9,68,676,703,8348,3959
+2019,Delaware,Non-motorized,4,11,24,12,72,50
+2019,Fairfield,Rear End,1,4,146,118,1853,702
+2019,Fairfield,Angle,1,19,149,121,947,431
+2019,Fairfield,Animal,0,0,6,2,183,130
+2019,Fairfield,Backing,0,1,1,5,254,123
+2019,Fairfield,Fixed Object,3,23,114,61,459,509
+2019,Fairfield,Head On,6,21,37,24,84,61
+2019,Fairfield,Left Turn,5,8,61,46,504,199
+2019,Fairfield,Other Non-Collision,0,3,2,0,39,30
+2019,Fairfield,Other Object,0,0,0,0,9,6
+2019,Fairfield,Overturning,0,4,14,7,17,35
+2019,Fairfield,Parked Vehicle,0,0,11,7,147,138
+2019,Fairfield,Pedalcycles,0,2,8,2,15,12
+2019,Fairfield,Pedestrian,0,8,15,5,36,25
+2019,Fairfield,Right Turn,0,0,11,5,329,104
+2019,Fairfield,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Fairfield,Sideswipe - Passing,0,5,37,23,736,305
+2019,Fairfield,Train,0,0,0,0,0,0
+2019,Fairfield,Unknown,0,1,2,0,11,9
+2019,Fairfield,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Fairfield,Other Non-Vehicle,0,0,0,0,0,0
+2019,Fairfield,Motorized,16,89,591,419,5572,2782
+2019,Fairfield,Non-motorized,0,10,23,7,51,37
+2019,Franklin,Rear End,6,94,1867,2364,26809,10342
+2019,Franklin,Angle,4,148,1563,1216,11414,4945
+2019,Franklin,Animal,0,1,11,12,327,234
+2019,Franklin,Backing,0,0,26,27,2450,1222
+2019,Franklin,Fixed Object,30,130,628,404,2777,3100
+2019,Franklin,Head On,12,58,279,163,1070,541
+2019,Franklin,Left Turn,11,72,833,570,5279,2307
+2019,Franklin,Other Non-Collision,3,12,54,33,238,264
+2019,Franklin,Other Object,0,2,9,9,111,107
+2019,Franklin,Overturning,5,9,67,12,24,83
+2019,Franklin,Parked Vehicle,3,14,151,93,3190,2611
+2019,Franklin,Pedalcycles,5,18,136,47,318,233
+2019,Franklin,Pedestrian,25,87,328,114,661,529
+2019,Franklin,Right Turn,2,10,136,128,2985,1125
+2019,Franklin,Sideswipe - Meeting,0,0,1,0,34,12
+2019,Franklin,Sideswipe - Passing,2,60,625,601,15697,6432
+2019,Franklin,Train,0,0,0,0,0,0
+2019,Franklin,Unknown,1,3,16,3,169,122
+2019,Franklin,Falling From Or In Vehicle,0,0,0,1,1,1
+2019,Franklin,Other Non-Vehicle,0,0,0,0,0,0
+2019,Franklin,Motorized,79,613,6266,5636,72575,33448
+2019,Franklin,Non-motorized,30,105,464,161,979,762
+2019,Knox,Rear End,0,3,47,45,466,193
+2019,Knox,Angle,0,4,29,30,298,127
+2019,Knox,Animal,0,2,6,7,258,207
+2019,Knox,Backing,0,0,2,1,128,61
+2019,Knox,Fixed Object,4,18,71,37,310,368
+2019,Knox,Head On,2,8,11,11,51,28
+2019,Knox,Left Turn,0,1,19,9,156,68
+2019,Knox,Other Non-Collision,0,0,0,0,12,12
+2019,Knox,Other Object,0,0,0,0,6,4
+2019,Knox,Overturning,1,1,8,2,14,18
+2019,Knox,Parked Vehicle,0,0,6,3,44,37
+2019,Knox,Pedalcycles,0,1,1,3,6,5
+2019,Knox,Pedestrian,0,2,3,1,4,4
+2019,Knox,Right Turn,0,0,3,3,48,20
+2019,Knox,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Knox,Sideswipe - Passing,0,2,10,2,169,72
+2019,Knox,Train,0,0,0,0,0,0
+2019,Knox,Unknown,0,0,0,1,10,9
+2019,Knox,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Knox,Other Non-Vehicle,0,0,0,0,0,0
+2019,Knox,Motorized,7,39,212,151,1970,1224
+2019,Knox,Non-motorized,0,3,4,4,10,9
+2019,Licking,Rear End,4,7,159,174,2321,934
+2019,Licking,Angle,1,23,158,104,1132,484
+2019,Licking,Animal,0,3,15,14,349,271
+2019,Licking,Backing,0,1,2,3,287,147
+2019,Licking,Fixed Object,11,23,133,74,714,765
+2019,Licking,Head On,6,10,36,17,88,55
+2019,Licking,Left Turn,1,4,43,33,542,212
+2019,Licking,Other Non-Collision,0,1,12,8,58,63
+2019,Licking,Other Object,0,0,0,2,25,18
+2019,Licking,Overturning,2,7,14,14,28,49
+2019,Licking,Parked Vehicle,0,0,12,2,164,130
+2019,Licking,Pedalcycles,1,2,13,3,24,18
+2019,Licking,Pedestrian,0,2,7,2,23,13
+2019,Licking,Right Turn,0,5,11,8,271,94
+2019,Licking,Sideswipe - Meeting,0,0,0,0,2,1
+2019,Licking,Sideswipe - Passing,0,6,32,43,928,392
+2019,Licking,Train,0,0,0,0,4,1
+2019,Licking,Unknown,0,0,1,0,11,11
+2019,Licking,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Licking,Other Non-Vehicle,0,0,0,0,0,0
+2019,Licking,Motorized,25,90,628,496,6924,3627
+2019,Licking,Non-motorized,1,4,20,5,47,31
+2019,Madison,Rear End,0,11,68,86,526,211
+2019,Madison,Angle,1,10,35,32,196,97
+2019,Madison,Animal,0,0,4,3,187,92
+2019,Madison,Backing,0,0,1,0,69,40
+2019,Madison,Fixed Object,3,13,70,19,325,349
+2019,Madison,Head On,0,3,8,6,31,17
+2019,Madison,Left Turn,0,1,13,10,94,42
+2019,Madison,Other Non-Collision,0,2,2,3,38,32
+2019,Madison,Other Object,0,0,0,0,27,19
+2019,Madison,Overturning,2,1,10,0,4,13
+2019,Madison,Parked Vehicle,0,0,5,0,39,37
+2019,Madison,Pedalcycles,0,1,2,0,4,3
+2019,Madison,Pedestrian,0,4,4,1,9,8
+2019,Madison,Right Turn,0,0,5,1,35,16
+2019,Madison,Sideswipe - Meeting,0,0,0,0,2,1
+2019,Madison,Sideswipe - Passing,0,5,28,28,391,177
+2019,Madison,Train,0,0,0,0,0,0
+2019,Madison,Unknown,0,0,1,2,53,27
+2019,Madison,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Madison,Other Non-Vehicle,0,0,0,0,0,0
+2019,Madison,Motorized,6,46,250,190,2017,1170
+2019,Madison,Non-motorized,0,5,6,1,13,11
+2019,Marion,Rear End,0,2,99,59,763,315
+2019,Marion,Angle,3,15,120,71,503,251
+2019,Marion,Animal,0,1,7,8,320,233
+2019,Marion,Backing,0,0,2,2,117,66
+2019,Marion,Fixed Object,4,11,67,29,290,325
+2019,Marion,Head On,0,4,8,8,39,22
+2019,Marion,Left Turn,0,3,24,12,147,70
+2019,Marion,Other Non-Collision,0,0,1,2,31,28
+2019,Marion,Other Object,0,0,0,0,24,15
+2019,Marion,Overturning,0,1,4,3,5,10
+2019,Marion,Parked Vehicle,0,2,4,1,66,65
+2019,Marion,Pedalcycles,0,0,7,1,11,9
+2019,Marion,Pedestrian,1,0,9,1,19,13
+2019,Marion,Right Turn,0,0,6,5,94,41
+2019,Marion,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Marion,Sideswipe - Passing,0,1,14,24,386,175
+2019,Marion,Train,0,0,1,0,2,1
+2019,Marion,Unknown,0,0,1,0,24,16
+2019,Marion,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Marion,Other Non-Vehicle,0,0,0,0,0,0
+2019,Marion,Motorized,7,40,358,224,2811,1633
+2019,Marion,Non-motorized,1,0,16,2,30,22
+2019,Morrow,Rear End,0,7,35,28,298,108
+2019,Morrow,Angle,0,6,48,26,136,69
+2019,Morrow,Animal,0,0,8,8,245,185
+2019,Morrow,Backing,0,0,2,1,87,21
+2019,Morrow,Fixed Object,5,8,43,41,342,313
+2019,Morrow,Head On,0,4,2,7,73,25
+2019,Morrow,Left Turn,0,4,28,12,115,42
+2019,Morrow,Other Non-Collision,0,0,0,0,25,17
+2019,Morrow,Other Object,0,0,1,0,19,13
+2019,Morrow,Overturning,0,3,6,8,8,17
+2019,Morrow,Parked Vehicle,0,0,0,0,10,8
+2019,Morrow,Pedalcycles,0,1,2,1,4,4
+2019,Morrow,Pedestrian,1,1,1,1,1,2
+2019,Morrow,Right Turn,0,2,2,5,32,15
+2019,Morrow,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Morrow,Sideswipe - Passing,0,1,26,10,285,100
+2019,Morrow,Train,0,0,0,0,0,0
+2019,Morrow,Unknown,0,0,2,3,17,13
+2019,Morrow,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Morrow,Other Non-Vehicle,0,0,0,0,0,0
+2019,Morrow,Motorized,5,35,203,149,1692,946
+2019,Morrow,Non-motorized,1,2,3,2,5,6
+2019,Pickaway,Rear End,0,7,60,65,631,253
+2019,Pickaway,Angle,2,15,51,28,262,128
+2019,Pickaway,Animal,0,0,4,5,234,173
+2019,Pickaway,Backing,0,0,1,3,85,49
+2019,Pickaway,Fixed Object,4,21,89,43,353,384
+2019,Pickaway,Head On,3,6,12,7,43,23
+2019,Pickaway,Left Turn,1,4,28,15,173,70
+2019,Pickaway,Other Non-Collision,0,1,5,0,43,36
+2019,Pickaway,Other Object,0,1,1,1,13,13
+2019,Pickaway,Overturning,1,0,6,2,7,14
+2019,Pickaway,Parked Vehicle,0,1,2,2,41,35
+2019,Pickaway,Pedalcycles,0,0,5,1,7,6
+2019,Pickaway,Pedestrian,3,1,5,1,5,6
+2019,Pickaway,Right Turn,1,0,6,3,37,19
+2019,Pickaway,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Pickaway,Sideswipe - Passing,0,2,8,17,304,117
+2019,Pickaway,Train,0,0,0,0,0,0
+2019,Pickaway,Unknown,0,1,0,1,28,20
+2019,Pickaway,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Pickaway,Other Non-Vehicle,0,0,0,0,0,0
+2019,Pickaway,Motorized,12,59,273,192,2254,1334
+2019,Pickaway,Non-motorized,3,1,10,2,12,12
+2019,Union,Rear End,1,2,45,80,661,279
+2019,Union,Angle,0,12,47,47,276,138
+2019,Union,Animal,0,1,12,7,293,224
+2019,Union,Backing,0,0,0,2,73,37
+2019,Union,Fixed Object,0,9,34,21,236,252
+2019,Union,Head On,0,2,5,3,35,15
+2019,Union,Left Turn,1,1,12,13,102,47
+2019,Union,Other Non-Collision,0,0,4,2,25,28
+2019,Union,Other Object,0,0,0,0,12,5
+2019,Union,Overturning,0,3,10,3,1,14
+2019,Union,Parked Vehicle,0,0,0,4,43,35
+2019,Union,Pedalcycles,0,0,2,0,6,3
+2019,Union,Pedestrian,1,0,0,2,5,4
+2019,Union,Right Turn,0,0,2,3,86,34
+2019,Union,Sideswipe - Meeting,0,0,0,0,0,0
+2019,Union,Sideswipe - Passing,0,1,12,28,362,143
+2019,Union,Train,0,0,0,0,0,0
+2019,Union,Unknown,0,0,0,0,10,7
+2019,Union,Falling From Or In Vehicle,0,0,0,0,0,0
+2019,Union,Other Non-Vehicle,0,0,0,0,0,0
+2019,Union,Motorized,2,31,183,213,2215,1258
+2019,Union,Non-motorized,1,0,2,2,11,7
+2020,Delaware,Rear End,0,13,136,188,2107,848
+2020,Delaware,Angle,7,20,152,116,848,389
+2020,Delaware,Animal,0,1,10,15,453,328
+2020,Delaware,Backing,0,0,1,3,170,98
+2020,Delaware,Fixed Object,5,20,117,53,554,585
+2020,Delaware,Head On,2,9,21,11,78,46
+2020,Delaware,Left Turn,1,15,72,55,399,190
+2020,Delaware,Other Non-Collision,0,0,2,4,71,56
+2020,Delaware,Other Object,0,0,5,0,34,22
+2020,Delaware,Overturning,0,8,15,7,14,28
+2020,Delaware,Parked Vehicle,0,3,6,6,181,129
+2020,Delaware,Pedalcycles,0,4,9,3,27,21
+2020,Delaware,Pedestrian,1,5,9,4,27,20
+2020,Delaware,Right Turn,0,0,15,12,190,78
+2020,Delaware,Sideswipe - Meeting,0,0,0,0,15,5
+2020,Delaware,Sideswipe - Passing,1,11,34,31,820,309
+2020,Delaware,Train,0,0,0,0,0,0
+2020,Delaware,Unknown,0,0,2,1,37,22
+2020,Delaware,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Delaware,Other Non-Vehicle,0,0,0,0,0,0
+2020,Delaware,Motorized,16,100,588,502,5971,3133
+2020,Delaware,Non-motorized,1,9,18,7,54,41
+2020,Fairfield,Rear End,1,13,91,116,1458,580
+2020,Fairfield,Angle,2,23,122,102,830,362
+2020,Fairfield,Animal,0,0,3,2,95,77
+2020,Fairfield,Backing,0,1,6,3,229,112
+2020,Fairfield,Fixed Object,8,34,104,45,422,450
+2020,Fairfield,Head On,0,6,21,16,109,51
+2020,Fairfield,Left Turn,0,9,76,43,352,158
+2020,Fairfield,Other Non-Collision,0,1,8,2,24,31
+2020,Fairfield,Other Object,0,0,0,0,14,7
+2020,Fairfield,Overturning,2,5,13,5,8,30
+2020,Fairfield,Parked Vehicle,0,2,14,4,148,126
+2020,Fairfield,Pedalcycles,1,5,1,2,13,11
+2020,Fairfield,Pedestrian,0,6,7,4,28,17
+2020,Fairfield,Right Turn,0,1,10,16,158,67
+2020,Fairfield,Sideswipe - Meeting,1,0,1,0,4,2
+2020,Fairfield,Sideswipe - Passing,1,9,26,14,639,265
+2020,Fairfield,Train,0,0,0,0,0,0
+2020,Fairfield,Unknown,0,0,0,0,10,8
+2020,Fairfield,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Fairfield,Other Non-Vehicle,0,0,0,0,0,0
+2020,Fairfield,Motorized,15,104,495,368,4500,2326
+2020,Fairfield,Non-motorized,1,11,8,6,41,28
+2020,Franklin,Rear End,12,73,1291,1342,12762,5210
+2020,Franklin,Angle,7,97,1538,1105,7807,3643
+2020,Franklin,Animal,1,2,21,15,223,201
+2020,Franklin,Backing,0,4,29,23,1350,742
+2020,Franklin,Fixed Object,35,130,649,401,2637,3005
+2020,Franklin,Head On,12,82,321,175,824,479
+2020,Franklin,Left Turn,11,69,647,454,3161,1475
+2020,Franklin,Other Non-Collision,0,14,51,23,187,220
+2020,Franklin,Other Object,0,1,3,2,73,61
+2020,Franklin,Overturning,1,11,39,11,44,87
+2020,Franklin,Parked Vehicle,0,19,171,95,2051,1757
+2020,Franklin,Pedalcycles,1,23,94,35,215,166
+2020,Franklin,Pedestrian,33,79,245,86,559,432
+2020,Franklin,Right Turn,0,11,140,152,1770,743
+2020,Franklin,Sideswipe - Meeting,0,0,1,0,15,6
+2020,Franklin,Sideswipe - Passing,10,50,561,516,8208,3525
+2020,Franklin,Train,0,0,0,0,0,0
+2020,Franklin,Unknown,0,2,13,9,159,104
+2020,Franklin,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Franklin,Other Non-Vehicle,0,0,0,0,0,0
+2020,Franklin,Motorized,89,565,5475,4323,41271,21258
+2020,Franklin,Non-motorized,34,102,339,121,774,598
+2020,Knox,Rear End,0,1,22,24,243,103
+2020,Knox,Angle,3,13,37,16,254,118
+2020,Knox,Animal,0,2,13,3,242,205
+2020,Knox,Backing,0,0,1,0,83,36
+2020,Knox,Fixed Object,3,10,77,12,292,306
+2020,Knox,Head On,0,2,13,5,41,22
+2020,Knox,Left Turn,0,0,10,11,128,55
+2020,Knox,Other Non-Collision,0,0,2,0,9,9
+2020,Knox,Other Object,0,0,0,0,6,5
+2020,Knox,Overturning,0,2,6,1,9,12
+2020,Knox,Parked Vehicle,0,0,2,1,22,20
+2020,Knox,Pedalcycles,0,0,2,0,5,3
+2020,Knox,Pedestrian,0,1,4,3,9,7
+2020,Knox,Right Turn,0,1,0,2,46,19
+2020,Knox,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Knox,Sideswipe - Passing,0,1,14,5,150,64
+2020,Knox,Train,0,0,0,0,0,0
+2020,Knox,Unknown,0,0,0,0,3,2
+2020,Knox,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Knox,Other Non-Vehicle,0,0,0,0,0,0
+2020,Knox,Motorized,6,32,197,80,1528,976
+2020,Knox,Non-motorized,0,1,6,3,14,10
+2020,Licking,Rear End,1,12,122,135,1727,723
+2020,Licking,Angle,2,22,126,104,1041,470
+2020,Licking,Animal,1,1,7,7,318,248
+2020,Licking,Backing,0,0,2,3,254,142
+2020,Licking,Fixed Object,9,44,147,67,704,770
+2020,Licking,Head On,0,18,22,31,166,63
+2020,Licking,Left Turn,0,6,52,48,409,182
+2020,Licking,Other Non-Collision,0,0,8,6,72,60
+2020,Licking,Other Object,0,0,1,1,26,19
+2020,Licking,Overturning,0,7,9,5,13,30
+2020,Licking,Parked Vehicle,2,4,12,5,159,130
+2020,Licking,Pedalcycles,0,3,8,1,19,13
+2020,Licking,Pedestrian,2,5,11,3,26,19
+2020,Licking,Right Turn,0,4,9,10,191,82
+2020,Licking,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Licking,Sideswipe - Passing,0,6,41,31,758,345
+2020,Licking,Train,0,0,0,0,0,0
+2020,Licking,Unknown,0,0,7,4,34,29
+2020,Licking,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Licking,Other Non-Vehicle,0,0,0,0,0,0
+2020,Licking,Motorized,15,124,565,457,5872,3293
+2020,Licking,Non-motorized,2,8,19,4,45,32
+2020,Madison,Rear End,3,10,51,45,326,146
+2020,Madison,Angle,0,3,29,24,179,83
+2020,Madison,Animal,0,2,0,3,128,94
+2020,Madison,Backing,0,0,0,0,50,31
+2020,Madison,Fixed Object,3,13,46,25,223,255
+2020,Madison,Head On,0,1,5,5,36,16
+2020,Madison,Left Turn,0,0,10,5,69,32
+2020,Madison,Other Non-Collision,0,1,6,3,45,42
+2020,Madison,Other Object,0,0,1,2,41,29
+2020,Madison,Overturning,0,1,4,3,7,11
+2020,Madison,Parked Vehicle,0,0,5,1,37,34
+2020,Madison,Pedalcycles,0,1,0,1,5,2
+2020,Madison,Pedestrian,1,4,3,1,7,5
+2020,Madison,Right Turn,0,0,4,5,61,20
+2020,Madison,Sideswipe - Meeting,0,0,0,0,12,6
+2020,Madison,Sideswipe - Passing,0,2,12,22,335,141
+2020,Madison,Train,0,0,0,0,0,0
+2020,Madison,Unknown,0,0,0,2,11,8
+2020,Madison,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Madison,Other Non-Vehicle,0,0,0,0,0,0
+2020,Madison,Motorized,6,33,173,145,1560,948
+2020,Madison,Non-motorized,1,5,3,2,12,7
+2020,Marion,Rear End,0,1,76,57,611,258
+2020,Marion,Angle,4,8,111,44,518,231
+2020,Marion,Animal,0,0,13,4,293,240
+2020,Marion,Backing,0,0,2,1,140,74
+2020,Marion,Fixed Object,2,6,62,22,234,264
+2020,Marion,Head On,1,9,20,6,40,30
+2020,Marion,Left Turn,2,7,36,11,175,83
+2020,Marion,Other Non-Collision,0,1,4,1,31,27
+2020,Marion,Other Object,0,0,0,0,7,6
+2020,Marion,Overturning,0,1,13,1,5,15
+2020,Marion,Parked Vehicle,0,0,7,5,55,60
+2020,Marion,Pedalcycles,0,0,5,0,6,5
+2020,Marion,Pedestrian,0,2,5,1,14,7
+2020,Marion,Right Turn,0,0,11,0,53,26
+2020,Marion,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Marion,Sideswipe - Passing,0,2,25,12,318,148
+2020,Marion,Train,0,0,1,0,4,2
+2020,Marion,Unknown,0,0,0,1,12,9
+2020,Marion,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Marion,Other Non-Vehicle,0,0,0,0,0,0
+2020,Marion,Motorized,9,35,381,165,2496,1473
+2020,Marion,Non-motorized,0,2,10,1,20,12
+2020,Morrow,Rear End,0,2,31,27,204,91
+2020,Morrow,Angle,0,2,29,10,141,58
+2020,Morrow,Animal,0,0,7,4,235,176
+2020,Morrow,Backing,0,0,1,2,32,13
+2020,Morrow,Fixed Object,2,5,70,25,260,262
+2020,Morrow,Head On,0,3,8,0,28,16
+2020,Morrow,Left Turn,0,0,12,9,107,41
+2020,Morrow,Other Non-Collision,0,0,0,1,30,21
+2020,Morrow,Other Object,0,0,0,0,8,4
+2020,Morrow,Overturning,0,5,11,2,11,20
+2020,Morrow,Parked Vehicle,0,0,2,0,18,14
+2020,Morrow,Pedalcycles,0,0,0,0,4,1
+2020,Morrow,Pedestrian,0,2,1,1,5,3
+2020,Morrow,Right Turn,0,0,3,1,19,9
+2020,Morrow,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Morrow,Sideswipe - Passing,0,3,11,2,193,74
+2020,Morrow,Train,0,0,0,0,0,0
+2020,Morrow,Unknown,0,0,0,0,19,10
+2020,Morrow,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Morrow,Other Non-Vehicle,0,0,0,0,0,0
+2020,Morrow,Motorized,2,20,185,83,1305,809
+2020,Morrow,Non-motorized,0,2,1,1,9,4
+2020,Pickaway,Rear End,1,4,40,42,442,182
+2020,Pickaway,Angle,0,15,44,43,329,144
+2020,Pickaway,Animal,0,0,4,3,224,179
+2020,Pickaway,Backing,0,0,0,0,48,32
+2020,Pickaway,Fixed Object,4,16,63,28,225,257
+2020,Pickaway,Head On,1,8,10,6,41,22
+2020,Pickaway,Left Turn,1,10,32,9,110,56
+2020,Pickaway,Other Non-Collision,1,1,6,2,57,52
+2020,Pickaway,Other Object,0,0,0,0,11,7
+2020,Pickaway,Overturning,1,2,12,3,16,28
+2020,Pickaway,Parked Vehicle,1,0,3,2,53,57
+2020,Pickaway,Pedalcycles,0,0,0,1,3,2
+2020,Pickaway,Pedestrian,0,4,5,2,14,10
+2020,Pickaway,Right Turn,0,0,3,1,54,19
+2020,Pickaway,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Pickaway,Sideswipe - Passing,0,3,17,8,250,104
+2020,Pickaway,Train,0,0,0,0,0,0
+2020,Pickaway,Unknown,0,1,1,0,32,15
+2020,Pickaway,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Pickaway,Other Non-Vehicle,0,0,0,0,0,0
+2020,Pickaway,Motorized,10,60,235,147,1892,1154
+2020,Pickaway,Non-motorized,0,4,5,3,17,12
+2020,Union,Rear End,0,5,34,48,452,202
+2020,Union,Angle,0,5,34,28,205,106
+2020,Union,Animal,0,2,15,7,283,246
+2020,Union,Backing,0,0,0,0,35,19
+2020,Union,Fixed Object,4,5,53,28,234,262
+2020,Union,Head On,2,7,2,2,31,17
+2020,Union,Left Turn,2,5,8,8,73,34
+2020,Union,Other Non-Collision,0,1,7,3,28,29
+2020,Union,Other Object,0,0,0,0,8,5
+2020,Union,Overturning,2,1,5,4,13,21
+2020,Union,Parked Vehicle,0,1,0,2,33,30
+2020,Union,Pedalcycles,0,1,1,0,4,3
+2020,Union,Pedestrian,0,1,4,0,6,4
+2020,Union,Right Turn,0,0,1,2,58,21
+2020,Union,Sideswipe - Meeting,0,0,0,0,0,0
+2020,Union,Sideswipe - Passing,0,3,12,10,229,103
+2020,Union,Train,0,0,0,0,2,1
+2020,Union,Unknown,0,0,0,0,14,7
+2020,Union,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,Union,Other Non-Vehicle,0,0,0,0,0,0
+2020,Union,Motorized,10,35,171,142,1698,1103
+2020,Union,Non-motorized,0,2,5,0,10,7
+2021,Delaware,Rear End,1,13,175,312,2340,910
+2021,Delaware,Angle,2,41,182,157,861,423
+2021,Delaware,Animal,0,2,7,12,537,377
+2021,Delaware,Backing,0,0,2,5,279,105
+2021,Delaware,Fixed Object,2,20,106,62,554,555
+2021,Delaware,Head On,4,12,35,27,88,56
+2021,Delaware,Left Turn,1,9,88,87,501,232
+2021,Delaware,Other Non-Collision,0,0,9,2,62,52
+2021,Delaware,Other Object,0,0,1,2,39,27
+2021,Delaware,Overturning,0,3,6,1,8,14
+2021,Delaware,Parked Vehicle,0,1,7,4,180,129
+2021,Delaware,Pedalcycles,0,2,11,2,22,18
+2021,Delaware,Pedestrian,2,4,10,2,25,19
+2021,Delaware,Right Turn,0,0,19,19,285,101
+2021,Delaware,Sideswipe - Meeting,0,0,3,1,20,8
+2021,Delaware,Sideswipe - Passing,0,1,45,43,977,390
+2021,Delaware,Train,0,0,0,0,0,0
+2021,Delaware,Unknown,0,0,0,0,47,25
+2021,Delaware,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Delaware,Other Non-Vehicle,0,0,0,0,0,0
+2021,Delaware,Motorized,10,102,685,734,6778,3404
+2021,Delaware,Non-motorized,2,6,21,4,47,37
+2021,Fairfield,Rear End,2,13,91,120,1791,686
+2021,Fairfield,Angle,2,25,147,117,918,424
+2021,Fairfield,Animal,0,2,8,8,138,124
+2021,Fairfield,Backing,0,1,1,3,368,152
+2021,Fairfield,Fixed Object,3,31,84,40,386,448
+2021,Fairfield,Head On,6,13,24,20,120,59
+2021,Fairfield,Left Turn,0,18,58,54,552,226
+2021,Fairfield,Other Non-Collision,1,0,4,2,30,24
+2021,Fairfield,Other Object,0,0,1,0,2,3
+2021,Fairfield,Overturning,4,4,6,4,11,25
+2021,Fairfield,Parked Vehicle,0,4,14,10,150,149
+2021,Fairfield,Pedalcycles,0,2,12,1,21,16
+2021,Fairfield,Pedestrian,3,7,8,7,26,24
+2021,Fairfield,Right Turn,0,3,15,13,186,90
+2021,Fairfield,Sideswipe - Meeting,0,0,0,0,0,0
+2021,Fairfield,Sideswipe - Passing,0,2,20,41,872,358
+2021,Fairfield,Train,0,0,0,0,0,0
+2021,Fairfield,Unknown,0,0,0,1,12,10
+2021,Fairfield,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Fairfield,Other Non-Vehicle,0,0,0,0,0,0
+2021,Fairfield,Motorized,18,116,473,433,5536,2778
+2021,Fairfield,Non-motorized,3,9,20,8,47,40
+2021,Franklin,Rear End,8,96,1416,1342,13025,5220
+2021,Franklin,Angle,14,152,1602,1138,8366,3860
+2021,Franklin,Animal,0,0,11,7,165,135
+2021,Franklin,Backing,0,2,17,14,1462,762
+2021,Franklin,Fixed Object,30,143,658,388,2746,3152
+2021,Franklin,Head On,19,95,327,175,988,554
+2021,Franklin,Left Turn,3,44,670,452,3762,1674
+2021,Franklin,Other Non-Collision,1,10,69,28,222,277
+2021,Franklin,Other Object,0,2,6,4,87,79
+2021,Franklin,Overturning,3,16,43,18,50,97
+2021,Franklin,Parked Vehicle,4,22,179,131,2122,1793
+2021,Franklin,Pedalcycles,4,22,96,41,253,183
+2021,Franklin,Pedestrian,32,98,242,98,568,446
+2021,Franklin,Right Turn,0,7,160,139,1656,703
+2021,Franklin,Sideswipe - Meeting,0,0,1,2,8,5
+2021,Franklin,Sideswipe - Passing,8,67,668,546,8804,3700
+2021,Franklin,Train,0,1,1,0,6,4
+2021,Franklin,Unknown,0,4,18,10,185,125
+2021,Franklin,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Franklin,Other Non-Vehicle,0,0,0,0,0,0
+2021,Franklin,Motorized,90,661,5846,4394,43654,22140
+2021,Franklin,Non-motorized,36,120,338,139,821,629
+2021,Knox,Rear End,0,1,30,27,382,154
+2021,Knox,Angle,1,7,52,26,349,154
+2021,Knox,Animal,1,0,6,1,279,211
+2021,Knox,Backing,0,0,2,2,102,45
+2021,Knox,Fixed Object,2,19,77,15,272,279
+2021,Knox,Head On,1,0,8,1,43,19
+2021,Knox,Left Turn,0,2,21,5,138,60
+2021,Knox,Other Non-Collision,0,0,1,0,14,14
+2021,Knox,Other Object,0,0,0,0,3,2
+2021,Knox,Overturning,0,4,8,2,14,22
+2021,Knox,Parked Vehicle,0,1,3,0,28,27
+2021,Knox,Pedalcycles,0,0,0,2,3,2
+2021,Knox,Pedestrian,0,0,1,0,1,1
+2021,Knox,Right Turn,0,1,3,1,62,22
+2021,Knox,Sideswipe - Meeting,0,0,0,0,0,0
+2021,Knox,Sideswipe - Passing,0,0,20,8,236,98
+2021,Knox,Train,0,0,0,0,0,0
+2021,Knox,Unknown,0,0,0,0,5,5
+2021,Knox,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Knox,Other Non-Vehicle,0,0,0,0,0,0
+2021,Knox,Motorized,5,35,231,88,1927,1112
+2021,Knox,Non-motorized,0,0,1,2,4,3
+2021,Licking,Rear End,1,12,141,163,2124,852
+2021,Licking,Angle,2,17,157,133,1057,490
+2021,Licking,Animal,1,3,19,15,337,273
+2021,Licking,Backing,0,0,3,0,279,146
+2021,Licking,Fixed Object,11,37,149,85,683,780
+2021,Licking,Head On,4,16,26,16,100,62
+2021,Licking,Left Turn,1,7,61,57,531,214
+2021,Licking,Other Non-Collision,0,3,6,2,59,58
+2021,Licking,Other Object,0,0,1,0,30,19
+2021,Licking,Overturning,1,7,11,4,23,38
+2021,Licking,Parked Vehicle,1,2,12,12,181,166
+2021,Licking,Pedalcycles,0,4,10,0,19,16
+2021,Licking,Pedestrian,1,10,17,2,46,32
+2021,Licking,Right Turn,0,1,18,9,286,116
+2021,Licking,Sideswipe - Meeting,0,2,2,2,12,5
+2021,Licking,Sideswipe - Passing,2,11,36,53,988,406
+2021,Licking,Train,0,0,0,0,0,0
+2021,Licking,Unknown,0,0,4,1,28,20
+2021,Licking,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Licking,Other Non-Vehicle,0,0,0,0,0,0
+2021,Licking,Motorized,24,118,646,552,6718,3645
+2021,Licking,Non-motorized,1,14,27,2,65,48
+2021,Madison,Rear End,1,7,56,38,330,150
+2021,Madison,Angle,0,9,46,26,293,107
+2021,Madison,Animal,0,1,4,5,95,75
+2021,Madison,Backing,0,1,0,0,48,28
+2021,Madison,Fixed Object,0,15,51,40,279,306
+2021,Madison,Head On,1,0,8,3,17,12
+2021,Madison,Left Turn,0,8,17,17,100,46
+2021,Madison,Other Non-Collision,0,1,4,2,43,37
+2021,Madison,Other Object,0,0,2,0,32,24
+2021,Madison,Overturning,0,1,3,2,6,11
+2021,Madison,Parked Vehicle,0,5,6,4,25,32
+2021,Madison,Pedalcycles,0,1,0,0,1,1
+2021,Madison,Pedestrian,0,6,1,0,6,6
+2021,Madison,Right Turn,0,2,3,3,20,11
+2021,Madison,Sideswipe - Meeting,0,0,0,0,4,2
+2021,Madison,Sideswipe - Passing,0,0,24,21,314,127
+2021,Madison,Train,0,0,0,0,0,0
+2021,Madison,Unknown,0,0,1,1,16,15
+2021,Madison,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Madison,Other Non-Vehicle,0,0,0,0,0,0
+2021,Madison,Motorized,2,50,225,162,1622,983
+2021,Madison,Non-motorized,0,7,1,0,7,7
+2021,Marion,Rear End,0,2,72,30,629,253
+2021,Marion,Angle,4,18,119,25,455,234
+2021,Marion,Animal,0,2,5,3,323,248
+2021,Marion,Backing,0,0,3,1,175,92
+2021,Marion,Fixed Object,3,14,64,21,251,272
+2021,Marion,Head On,0,2,7,3,51,23
+2021,Marion,Left Turn,1,2,25,15,181,80
+2021,Marion,Other Non-Collision,1,1,5,1,35,34
+2021,Marion,Other Object,0,0,0,0,24,14
+2021,Marion,Overturning,1,1,3,0,6,9
+2021,Marion,Parked Vehicle,0,0,7,7,88,93
+2021,Marion,Pedalcycles,0,6,8,0,14,14
+2021,Marion,Pedestrian,0,3,7,1,12,11
+2021,Marion,Right Turn,0,0,6,5,92,40
+2021,Marion,Sideswipe - Meeting,0,0,0,0,2,1
+2021,Marion,Sideswipe - Passing,0,2,28,11,427,173
+2021,Marion,Train,0,0,0,0,0,1
+2021,Marion,Unknown,0,0,1,0,9,8
+2021,Marion,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Marion,Other Non-Vehicle,0,0,0,0,0,0
+2021,Marion,Motorized,10,44,345,122,2748,1575
+2021,Marion,Non-motorized,0,9,15,1,26,25
+2021,Morrow,Rear End,0,2,31,11,197,83
+2021,Morrow,Angle,2,5,62,9,183,82
+2021,Morrow,Animal,0,1,11,4,240,180
+2021,Morrow,Backing,0,0,4,1,54,25
+2021,Morrow,Fixed Object,1,18,70,18,249,267
+2021,Morrow,Head On,0,2,10,3,22,12
+2021,Morrow,Left Turn,0,3,18,5,89,37
+2021,Morrow,Other Non-Collision,0,0,0,1,31,19
+2021,Morrow,Other Object,0,0,1,0,1,2
+2021,Morrow,Overturning,0,2,11,2,8,18
+2021,Morrow,Parked Vehicle,1,3,1,0,10,10
+2021,Morrow,Pedalcycles,0,0,0,0,0,0
+2021,Morrow,Pedestrian,1,1,3,0,7,5
+2021,Morrow,Right Turn,0,1,1,0,8,5
+2021,Morrow,Sideswipe - Meeting,0,0,0,0,2,1
+2021,Morrow,Sideswipe - Passing,2,1,31,3,245,95
+2021,Morrow,Train,0,0,0,0,0,0
+2021,Morrow,Unknown,0,0,1,0,18,12
+2021,Morrow,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Morrow,Other Non-Vehicle,0,0,0,0,0,0
+2021,Morrow,Motorized,6,38,252,57,1357,848
+2021,Morrow,Non-motorized,1,1,3,0,7,5
+2021,Pickaway,Rear End,1,10,47,55,561,239
+2021,Pickaway,Angle,1,9,59,38,338,164
+2021,Pickaway,Animal,0,0,3,4,187,152
+2021,Pickaway,Backing,0,0,0,0,107,43
+2021,Pickaway,Fixed Object,3,14,55,41,212,268
+2021,Pickaway,Head On,1,4,16,3,48,24
+2021,Pickaway,Left Turn,0,3,21,18,152,70
+2021,Pickaway,Other Non-Collision,0,2,5,3,48,44
+2021,Pickaway,Other Object,0,0,2,1,11,12
+2021,Pickaway,Overturning,2,3,10,5,9,23
+2021,Pickaway,Parked Vehicle,0,1,2,2,54,50
+2021,Pickaway,Pedalcycles,0,0,2,2,5,4
+2021,Pickaway,Pedestrian,0,3,7,2,12,10
+2021,Pickaway,Right Turn,2,5,5,1,73,37
+2021,Pickaway,Sideswipe - Meeting,0,0,0,0,0,0
+2021,Pickaway,Sideswipe - Passing,0,2,23,10,366,134
+2021,Pickaway,Train,0,0,0,0,0,0
+2021,Pickaway,Unknown,0,1,0,0,20,13
+2021,Pickaway,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Pickaway,Other Non-Vehicle,0,0,0,0,0,0
+2021,Pickaway,Motorized,10,54,248,181,2186,1273
+2021,Pickaway,Non-motorized,0,3,9,4,17,14
+2021,Union,Rear End,0,1,42,77,577,251
+2021,Union,Angle,1,11,58,40,245,131
+2021,Union,Animal,1,1,10,11,342,240
+2021,Union,Backing,0,0,2,4,97,50
+2021,Union,Fixed Object,1,13,32,24,238,247
+2021,Union,Head On,0,6,12,5,62,31
+2021,Union,Left Turn,2,6,6,8,82,39
+2021,Union,Other Non-Collision,0,1,4,1,28,30
+2021,Union,Other Object,0,0,0,1,10,10
+2021,Union,Overturning,0,1,6,7,10,17
+2021,Union,Parked Vehicle,0,0,1,4,28,33
+2021,Union,Pedalcycles,0,0,2,0,4,2
+2021,Union,Pedestrian,0,0,2,0,5,3
+2021,Union,Right Turn,0,1,1,3,67,24
+2021,Union,Sideswipe - Meeting,0,0,0,0,0,0
+2021,Union,Sideswipe - Passing,0,3,16,15,376,151
+2021,Union,Train,0,0,0,0,0,0
+2021,Union,Unknown,0,0,1,1,28,19
+2021,Union,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,Union,Other Non-Vehicle,0,0,0,0,0,0
+2021,Union,Motorized,5,44,191,201,2190,1273
+2021,Union,Non-motorized,0,0,4,0,9,5
+2022,Delaware,Rear End,2,9,176,260,2310,925
+2022,Delaware,Angle,2,28,171,163,1032,479
+2022,Delaware,Animal,0,2,15,19,458,345
+2022,Delaware,Backing,0,0,0,4,223,122
+2022,Delaware,Fixed Object,8,25,83,60,541,542
+2022,Delaware,Head On,1,12,57,20,130,76
+2022,Delaware,Left Turn,0,15,88,69,520,244
+2022,Delaware,Other Non-Collision,0,1,2,0,72,59
+2022,Delaware,Other Object,0,0,0,1,20,17
+2022,Delaware,Overturning,0,2,19,4,16,33
+2022,Delaware,Parked Vehicle,0,1,8,10,148,134
+2022,Delaware,Pedalcycles,0,3,3,2,13,11
+2022,Delaware,Pedestrian,1,5,21,5,36,30
+2022,Delaware,Right Turn,0,0,14,12,258,102
+2022,Delaware,Sideswipe - Meeting,0,0,0,0,10,2
+2022,Delaware,Sideswipe - Passing,3,4,49,60,1097,417
+2022,Delaware,Train,0,0,0,0,0,0
+2022,Delaware,Unknown,0,0,0,0,26,19
+2022,Delaware,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Delaware,Other Non-Vehicle,0,0,0,0,0,0
+2022,Delaware,Motorized,16,99,682,682,6861,3516
+2022,Delaware,Non-motorized,1,8,24,7,49,41
+2022,Fairfield,Rear End,0,6,87,99,1555,613
+2022,Fairfield,Angle,2,14,152,81,881,404
+2022,Fairfield,Animal,0,2,14,5,152,136
+2022,Fairfield,Backing,1,0,4,3,296,168
+2022,Fairfield,Fixed Object,5,17,85,37,399,427
+2022,Fairfield,Head On,1,8,28,15,128,64
+2022,Fairfield,Left Turn,0,5,62,41,374,175
+2022,Fairfield,Other Non-Collision,0,1,8,4,41,47
+2022,Fairfield,Other Object,0,0,0,0,10,6
+2022,Fairfield,Overturning,1,7,20,3,13,35
+2022,Fairfield,Parked Vehicle,0,1,23,10,150,135
+2022,Fairfield,Pedalcycles,0,3,3,1,19,13
+2022,Fairfield,Pedestrian,0,6,15,6,37,26
+2022,Fairfield,Right Turn,1,0,14,4,231,92
+2022,Fairfield,Sideswipe - Meeting,0,0,0,1,4,2
+2022,Fairfield,Sideswipe - Passing,1,6,27,24,725,307
+2022,Fairfield,Train,0,0,0,0,0,0
+2022,Fairfield,Unknown,0,1,0,1,10,8
+2022,Fairfield,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Fairfield,Other Non-Vehicle,0,0,0,0,0,0
+2022,Fairfield,Motorized,12,68,524,328,4969,2619
+2022,Fairfield,Non-motorized,0,9,18,7,56,39
+2022,Franklin,Rear End,5,60,1214,1303,13580,5290
+2022,Franklin,Angle,17,129,1376,1101,8642,3833
+2022,Franklin,Animal,1,0,17,10,218,188
+2022,Franklin,Backing,0,2,16,33,1398,771
+2022,Franklin,Fixed Object,37,125,537,357,2545,2873
+2022,Franklin,Head On,6,65,333,151,969,512
+2022,Franklin,Left Turn,11,55,630,451,3677,1668
+2022,Franklin,Other Non-Collision,1,9,54,29,264,260
+2022,Franklin,Other Object,1,1,11,5,82,78
+2022,Franklin,Overturning,3,15,53,20,36,97
+2022,Franklin,Parked Vehicle,2,15,159,112,2099,1712
+2022,Franklin,Pedalcycles,1,16,83,26,191,130
+2022,Franklin,Pedestrian,35,88,259,104,613,468
+2022,Franklin,Right Turn,0,10,142,135,1800,747
+2022,Franklin,Sideswipe - Meeting,0,0,0,2,41,15
+2022,Franklin,Sideswipe - Passing,5,52,606,491,9361,3873
+2022,Franklin,Train,0,0,0,1,1,1
+2022,Franklin,Unknown,0,2,14,9,151,120
+2022,Franklin,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Franklin,Other Non-Vehicle,0,0,0,0,0,0
+2022,Franklin,Motorized,89,540,5162,4210,44864,22038
+2022,Franklin,Non-motorized,36,104,342,130,804,598
+2022,Knox,Rear End,0,2,25,31,438,173
+2022,Knox,Angle,4,13,39,35,384,164
+2022,Knox,Animal,0,2,9,0,220,157
+2022,Knox,Backing,0,0,2,0,119,54
+2022,Knox,Fixed Object,2,12,66,21,250,283
+2022,Knox,Head On,3,7,14,15,60,29
+2022,Knox,Left Turn,0,4,13,8,162,67
+2022,Knox,Other Non-Collision,0,0,1,0,11,8
+2022,Knox,Other Object,0,0,1,0,11,6
+2022,Knox,Overturning,0,1,11,1,17,21
+2022,Knox,Parked Vehicle,0,0,1,4,37,34
+2022,Knox,Pedalcycles,0,1,1,0,4,3
+2022,Knox,Pedestrian,0,0,1,0,1,1
+2022,Knox,Right Turn,0,0,0,1,42,16
+2022,Knox,Sideswipe - Meeting,0,0,0,0,0,0
+2022,Knox,Sideswipe - Passing,1,3,9,8,228,83
+2022,Knox,Train,0,0,0,0,0,0
+2022,Knox,Unknown,0,0,0,0,2,2
+2022,Knox,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Knox,Other Non-Vehicle,0,0,0,0,0,0
+2022,Knox,Motorized,10,44,191,124,1981,1097
+2022,Knox,Non-motorized,0,1,2,0,5,4
+2022,Licking,Rear End,0,8,132,126,1821,733
+2022,Licking,Angle,5,44,167,122,914,453
+2022,Licking,Animal,0,2,14,12,395,299
+2022,Licking,Backing,0,1,2,6,234,121
+2022,Licking,Fixed Object,5,56,153,94,743,753
+2022,Licking,Head On,2,5,33,17,131,71
+2022,Licking,Left Turn,2,13,33,38,423,190
+2022,Licking,Other Non-Collision,0,3,13,3,67,68
+2022,Licking,Other Object,0,0,3,2,35,28
+2022,Licking,Overturning,0,4,17,1,13,30
+2022,Licking,Parked Vehicle,0,2,13,8,132,133
+2022,Licking,Pedalcycles,0,8,6,1,16,13
+2022,Licking,Pedestrian,2,8,11,8,40,27
+2022,Licking,Right Turn,0,2,16,12,228,95
+2022,Licking,Sideswipe - Meeting,0,0,0,0,31,2
+2022,Licking,Sideswipe - Passing,1,13,68,35,1000,430
+2022,Licking,Train,0,0,0,0,0,0
+2022,Licking,Unknown,0,1,0,1,20,14
+2022,Licking,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Licking,Other Non-Vehicle,0,0,0,0,3,1
+2022,Licking,Motorized,15,154,664,477,6190,3421
+2022,Licking,Non-motorized,2,16,17,9,56,40
+2022,Madison,Rear End,2,8,36,29,362,142
+2022,Madison,Angle,5,14,57,37,265,115
+2022,Madison,Animal,0,0,10,7,124,94
+2022,Madison,Backing,0,0,0,0,61,36
+2022,Madison,Fixed Object,1,21,43,32,252,264
+2022,Madison,Head On,4,3,16,6,31,25
+2022,Madison,Left Turn,0,4,14,9,85,41
+2022,Madison,Other Non-Collision,0,1,2,3,47,36
+2022,Madison,Other Object,0,0,1,0,23,17
+2022,Madison,Overturning,0,1,7,4,13,16
+2022,Madison,Parked Vehicle,0,1,2,1,27,27
+2022,Madison,Pedalcycles,0,1,1,0,2,2
+2022,Madison,Pedestrian,1,1,3,2,9,7
+2022,Madison,Right Turn,0,1,2,2,39,16
+2022,Madison,Sideswipe - Meeting,0,0,0,0,9,4
+2022,Madison,Sideswipe - Passing,0,5,17,16,362,157
+2022,Madison,Train,0,0,0,0,0,0
+2022,Madison,Unknown,0,0,3,0,24,16
+2022,Madison,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Madison,Other Non-Vehicle,0,0,0,0,0,0
+2022,Madison,Motorized,12,59,210,146,1724,1006
+2022,Madison,Non-motorized,1,2,4,2,11,9
+2022,Marion,Rear End,0,2,67,66,716,240
+2022,Marion,Angle,0,6,102,53,425,209
+2022,Marion,Animal,0,1,10,12,334,253
+2022,Marion,Backing,0,0,2,0,162,77
+2022,Marion,Fixed Object,8,13,51,12,264,260
+2022,Marion,Head On,0,2,16,7,45,26
+2022,Marion,Left Turn,0,3,27,14,205,81
+2022,Marion,Other Non-Collision,0,0,4,3,54,52
+2022,Marion,Other Object,0,0,0,0,14,9
+2022,Marion,Overturning,0,0,4,1,8,11
+2022,Marion,Parked Vehicle,1,1,5,5,89,79
+2022,Marion,Pedalcycles,0,1,7,0,17,11
+2022,Marion,Pedestrian,1,7,10,3,22,20
+2022,Marion,Right Turn,0,0,7,3,102,40
+2022,Marion,Sideswipe - Meeting,0,0,0,0,0,0
+2022,Marion,Sideswipe - Passing,0,6,31,21,470,195
+2022,Marion,Train,0,0,2,0,2,2
+2022,Marion,Unknown,0,0,0,0,20,14
+2022,Marion,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Marion,Other Non-Vehicle,0,0,0,0,0,0
+2022,Marion,Motorized,9,34,328,197,2910,1548
+2022,Marion,Non-motorized,1,8,17,3,39,31
+2022,Morrow,Rear End,3,1,24,16,264,104
+2022,Morrow,Angle,1,11,54,18,152,80
+2022,Morrow,Animal,0,1,3,2,234,170
+2022,Morrow,Backing,0,0,0,0,56,16
+2022,Morrow,Fixed Object,4,10,63,23,280,275
+2022,Morrow,Head On,1,1,13,2,47,21
+2022,Morrow,Left Turn,0,0,12,1,105,39
+2022,Morrow,Other Non-Collision,0,0,1,0,43,28
+2022,Morrow,Other Object,0,0,0,1,7,6
+2022,Morrow,Overturning,0,3,6,3,9,13
+2022,Morrow,Parked Vehicle,1,0,0,0,12,9
+2022,Morrow,Pedalcycles,0,0,2,0,4,2
+2022,Morrow,Pedestrian,0,2,4,1,4,4
+2022,Morrow,Right Turn,0,0,8,1,17,9
+2022,Morrow,Sideswipe - Meeting,0,0,0,0,3,1
+2022,Morrow,Sideswipe - Passing,0,2,24,8,245,89
+2022,Morrow,Train,0,0,0,0,0,0
+2022,Morrow,Unknown,0,0,0,0,11,9
+2022,Morrow,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Morrow,Other Non-Vehicle,0,0,0,0,0,0
+2022,Morrow,Motorized,10,29,208,75,1485,869
+2022,Morrow,Non-motorized,0,2,6,1,8,6
+2022,Pickaway,Rear End,1,5,76,57,541,240
+2022,Pickaway,Angle,2,21,75,56,319,174
+2022,Pickaway,Animal,0,3,1,4,197,153
+2022,Pickaway,Backing,0,0,1,2,77,43
+2022,Pickaway,Fixed Object,6,17,55,32,242,278
+2022,Pickaway,Head On,0,1,22,2,39,24
+2022,Pickaway,Left Turn,0,2,27,9,201,76
+2022,Pickaway,Other Non-Collision,0,7,10,8,52,55
+2022,Pickaway,Other Object,0,0,0,0,5,3
+2022,Pickaway,Overturning,0,2,8,1,8,18
+2022,Pickaway,Parked Vehicle,0,4,2,5,51,46
+2022,Pickaway,Pedalcycles,0,0,0,0,0,0
+2022,Pickaway,Pedestrian,0,4,8,2,13,12
+2022,Pickaway,Right Turn,0,0,5,4,80,32
+2022,Pickaway,Sideswipe - Meeting,0,0,0,0,0,0
+2022,Pickaway,Sideswipe - Passing,0,1,14,9,304,125
+2022,Pickaway,Train,0,0,0,0,0,0
+2022,Pickaway,Unknown,0,0,0,0,7,7
+2022,Pickaway,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Pickaway,Other Non-Vehicle,0,0,0,0,0,0
+2022,Pickaway,Motorized,9,63,296,189,2123,1274
+2022,Pickaway,Non-motorized,0,4,8,2,13,12
+2022,Union,Rear End,1,3,40,75,710,283
+2022,Union,Angle,2,15,46,42,333,154
+2022,Union,Animal,0,1,9,6,374,274
+2022,Union,Backing,0,0,0,2,106,47
+2022,Union,Fixed Object,2,12,46,30,222,255
+2022,Union,Head On,0,4,5,7,39,20
+2022,Union,Left Turn,1,5,13,17,124,57
+2022,Union,Other Non-Collision,0,3,4,2,24,28
+2022,Union,Other Object,0,0,0,0,10,8
+2022,Union,Overturning,0,1,10,3,8,19
+2022,Union,Parked Vehicle,0,1,4,8,50,45
+2022,Union,Pedalcycles,0,1,0,2,9,5
+2022,Union,Pedestrian,1,1,3,2,8,6
+2022,Union,Right Turn,0,1,1,0,79,31
+2022,Union,Sideswipe - Meeting,0,0,0,0,0,0
+2022,Union,Sideswipe - Passing,0,4,17,19,364,155
+2022,Union,Train,0,0,0,0,1,1
+2022,Union,Unknown,0,0,2,1,17,11
+2022,Union,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,Union,Other Non-Vehicle,0,0,0,0,0,0
+2022,Union,Motorized,6,50,197,212,2461,1388
+2022,Union,Non-motorized,1,2,3,4,17,11
+2023,Delaware,Rear End,1,8,152,288,2559,1000
+2023,Delaware,Angle,1,34,190,131,1078,491
+2023,Delaware,Animal,0,1,21,17,394,298
+2023,Delaware,Backing,0,0,5,1,278,129
+2023,Delaware,Fixed Object,4,16,84,62,515,490
+2023,Delaware,Head On,5,8,30,25,81,56
+2023,Delaware,Left Turn,0,15,106,90,646,281
+2023,Delaware,Other Non-Collision,0,1,2,0,59,43
+2023,Delaware,Other Object,0,0,0,0,12,10
+2023,Delaware,Overturning,0,3,9,3,12,17
+2023,Delaware,Parked Vehicle,1,0,7,6,148,128
+2023,Delaware,Pedalcycles,0,4,4,1,20,12
+2023,Delaware,Pedestrian,0,2,20,5,31,23
+2023,Delaware,Right Turn,1,0,13,11,245,97
+2023,Delaware,Sideswipe - Meeting,0,0,0,0,0,0
+2023,Delaware,Sideswipe - Passing,2,6,46,47,1025,391
+2023,Delaware,Train,0,0,2,0,1,2
+2023,Delaware,Unknown,0,0,0,0,27,17
+2023,Delaware,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Delaware,Other Non-Vehicle,0,0,0,0,0,0
+2023,Delaware,Motorized,15,92,667,681,7080,3450
+2023,Delaware,Non-motorized,0,6,24,6,51,35
+2023,Fairfield,Rear End,2,4,104,85,1327,517
+2023,Fairfield,Angle,1,22,121,71,769,335
+2023,Fairfield,Animal,0,1,3,0,121,92
+2023,Fairfield,Backing,0,1,3,0,141,70
+2023,Fairfield,Fixed Object,5,29,65,34,298,336
+2023,Fairfield,Head On,2,11,30,9,82,52
+2023,Fairfield,Left Turn,3,9,34,33,365,158
+2023,Fairfield,Other Non-Collision,0,1,3,2,36,36
+2023,Fairfield,Other Object,0,1,0,0,3,4
+2023,Fairfield,Overturning,0,4,10,2,10,21
+2023,Fairfield,Parked Vehicle,0,1,13,3,103,113
+2023,Fairfield,Pedalcycles,0,0,6,7,19,13
+2023,Fairfield,Pedestrian,1,6,12,4,28,24
+2023,Fairfield,Right Turn,0,1,12,5,190,78
+2023,Fairfield,Sideswipe - Meeting,0,1,0,0,1,1
+2023,Fairfield,Sideswipe - Passing,1,11,47,24,628,258
+2023,Fairfield,Train,0,0,0,0,0,0
+2023,Fairfield,Unknown,0,0,1,0,16,10
+2023,Fairfield,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Fairfield,Other Non-Vehicle,0,0,0,0,0,0
+2023,Fairfield,Motorized,14,97,446,268,4090,2081
+2023,Fairfield,Non-motorized,1,6,18,11,47,37
+2023,Franklin,Rear End,11,70,1281,1296,13589,5332
+2023,Franklin,Angle,19,115,1412,1094,8563,3751
+2023,Franklin,Animal,1,0,18,7,210,160
+2023,Franklin,Backing,0,3,20,32,1720,911
+2023,Franklin,Fixed Object,19,128,531,301,2550,2692
+2023,Franklin,Head On,16,67,292,197,1051,558
+2023,Franklin,Left Turn,12,49,651,498,3838,1758
+2023,Franklin,Other Non-Collision,4,22,50,25,248,257
+2023,Franklin,Other Object,0,1,14,2,106,91
+2023,Franklin,Overturning,1,7,44,18,40,82
+2023,Franklin,Parked Vehicle,0,12,139,84,2523,2105
+2023,Franklin,Pedalcycles,3,24,134,38,271,213
+2023,Franklin,Pedestrian,29,114,299,127,707,529
+2023,Franklin,Right Turn,2,10,127,137,1868,769
+2023,Franklin,Sideswipe - Meeting,0,0,2,0,18,10
+2023,Franklin,Sideswipe - Passing,11,40,541,480,10133,4240
+2023,Franklin,Train,0,0,0,1,3,2
+2023,Franklin,Unknown,1,6,19,7,212,132
+2023,Franklin,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Franklin,Other Non-Vehicle,0,0,0,0,0,0
+2023,Franklin,Motorized,97,530,5141,4179,46672,22850
+2023,Franklin,Non-motorized,32,138,433,165,978,742
+2023,Knox,Rear End,0,2,27,28,447,165
+2023,Knox,Angle,1,4,31,29,324,135
+2023,Knox,Animal,0,3,8,3,273,213
+2023,Knox,Backing,0,0,1,0,85,43
+2023,Knox,Fixed Object,3,14,66,22,202,236
+2023,Knox,Head On,2,3,21,15,49,28
+2023,Knox,Left Turn,0,1,18,13,131,61
+2023,Knox,Other Non-Collision,0,0,0,1,15,11
+2023,Knox,Other Object,0,0,0,0,2,2
+2023,Knox,Overturning,0,2,5,4,4,15
+2023,Knox,Parked Vehicle,0,0,1,3,23,25
+2023,Knox,Pedalcycles,0,0,0,0,0,0
+2023,Knox,Pedestrian,1,1,1,6,12,10
+2023,Knox,Right Turn,0,0,2,2,44,21
+2023,Knox,Sideswipe - Meeting,0,0,0,0,2,1
+2023,Knox,Sideswipe - Passing,0,1,14,10,186,81
+2023,Knox,Train,0,0,0,0,0,0
+2023,Knox,Unknown,0,0,0,0,5,4
+2023,Knox,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Knox,Other Non-Vehicle,0,0,0,0,0,0
+2023,Knox,Motorized,6,30,194,130,1792,1041
+2023,Knox,Non-motorized,1,1,1,6,12,10
+2023,Licking,Rear End,8,28,107,107,1828,693
+2023,Licking,Angle,3,13,118,95,992,424
+2023,Licking,Animal,0,3,13,7,300,246
+2023,Licking,Backing,0,0,0,4,209,107
+2023,Licking,Fixed Object,5,26,119,74,580,644
+2023,Licking,Head On,2,12,17,21,118,61
+2023,Licking,Left Turn,1,13,54,36,498,205
+2023,Licking,Other Non-Collision,0,6,5,3,78,69
+2023,Licking,Other Object,0,0,1,0,24,18
+2023,Licking,Overturning,1,4,11,5,9,27
+2023,Licking,Parked Vehicle,0,4,11,9,140,119
+2023,Licking,Pedalcycles,0,2,7,2,16,12
+2023,Licking,Pedestrian,2,6,15,9,43,32
+2023,Licking,Right Turn,1,3,14,11,229,102
+2023,Licking,Sideswipe - Meeting,0,0,0,0,6,2
+2023,Licking,Sideswipe - Passing,0,8,59,41,950,394
+2023,Licking,Train,0,0,1,0,3,2
+2023,Licking,Unknown,0,2,4,1,21,20
+2023,Licking,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Licking,Other Non-Vehicle,0,0,0,0,2,1
+2023,Licking,Motorized,21,122,534,414,5987,3134
+2023,Licking,Non-motorized,2,8,22,11,59,44
+2023,Madison,Rear End,1,15,46,38,454,174
+2023,Madison,Angle,0,13,44,38,222,118
+2023,Madison,Animal,1,1,12,7,152,105
+2023,Madison,Backing,0,2,1,0,76,40
+2023,Madison,Fixed Object,6,23,50,21,247,264
+2023,Madison,Head On,2,4,5,10,35,21
+2023,Madison,Left Turn,0,2,23,16,46,31
+2023,Madison,Other Non-Collision,0,1,6,1,39,35
+2023,Madison,Other Object,0,0,0,1,14,13
+2023,Madison,Overturning,0,2,5,0,5,12
+2023,Madison,Parked Vehicle,0,0,2,4,35,36
+2023,Madison,Pedalcycles,0,0,2,0,3,2
+2023,Madison,Pedestrian,0,0,1,1,6,3
+2023,Madison,Right Turn,0,0,2,3,47,17
+2023,Madison,Sideswipe - Meeting,0,0,0,3,7,4
+2023,Madison,Sideswipe - Passing,0,3,24,19,389,165
+2023,Madison,Train,0,0,0,0,0,0
+2023,Madison,Unknown,0,0,2,0,32,18
+2023,Madison,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Madison,Other Non-Vehicle,0,0,0,0,0,0
+2023,Madison,Motorized,10,66,222,161,1800,1053
+2023,Madison,Non-motorized,0,0,3,1,9,5
+2023,Marion,Rear End,0,2,52,80,570,244
+2023,Marion,Angle,3,20,106,66,585,257
+2023,Marion,Animal,1,0,4,9,329,259
+2023,Marion,Backing,0,0,2,2,150,66
+2023,Marion,Fixed Object,4,16,55,21,201,226
+2023,Marion,Head On,1,4,7,2,37,19
+2023,Marion,Left Turn,0,4,30,15,195,88
+2023,Marion,Other Non-Collision,1,0,3,3,30,27
+2023,Marion,Other Object,0,0,0,0,10,9
+2023,Marion,Overturning,0,2,7,1,3,9
+2023,Marion,Parked Vehicle,0,1,10,3,69,74
+2023,Marion,Pedalcycles,0,1,4,3,10,8
+2023,Marion,Pedestrian,0,0,5,2,8,5
+2023,Marion,Right Turn,0,0,6,2,100,42
+2023,Marion,Sideswipe - Meeting,0,0,0,0,0,0
+2023,Marion,Sideswipe - Passing,1,2,24,11,382,163
+2023,Marion,Train,0,0,0,0,0,0
+2023,Marion,Unknown,0,0,1,0,25,16
+2023,Marion,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Marion,Other Non-Vehicle,0,0,0,0,0,0
+2023,Marion,Motorized,11,51,307,215,2686,1499
+2023,Marion,Non-motorized,0,1,9,5,18,13
+2023,Morrow,Rear End,1,2,26,22,257,114
+2023,Morrow,Angle,1,6,76,13,159,89
+2023,Morrow,Animal,1,0,7,5,299,224
+2023,Morrow,Backing,0,0,0,0,45,18
+2023,Morrow,Fixed Object,0,9,72,24,228,247
+2023,Morrow,Head On,0,5,6,4,34,19
+2023,Morrow,Left Turn,1,2,10,6,102,40
+2023,Morrow,Other Non-Collision,0,0,2,0,27,16
+2023,Morrow,Other Object,0,0,0,0,8,5
+2023,Morrow,Overturning,1,3,2,0,6,9
+2023,Morrow,Parked Vehicle,0,0,4,2,45,13
+2023,Morrow,Pedalcycles,0,1,0,0,3,1
+2023,Morrow,Pedestrian,0,3,1,0,6,4
+2023,Morrow,Right Turn,0,0,4,0,28,11
+2023,Morrow,Sideswipe - Meeting,0,0,0,0,0,0
+2023,Morrow,Sideswipe - Passing,0,0,27,9,242,100
+2023,Morrow,Train,0,0,0,0,0,0
+2023,Morrow,Unknown,0,0,0,0,18,12
+2023,Morrow,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Morrow,Other Non-Vehicle,0,0,0,0,0,0
+2023,Morrow,Motorized,5,27,236,85,1498,917
+2023,Morrow,Non-motorized,0,4,1,0,9,5
+2023,Pickaway,Rear End,1,4,48,44,526,227
+2023,Pickaway,Angle,0,5,66,40,317,153
+2023,Pickaway,Animal,0,2,4,6,218,183
+2023,Pickaway,Backing,0,0,1,2,152,46
+2023,Pickaway,Fixed Object,2,25,52,24,163,217
+2023,Pickaway,Head On,1,16,19,12,47,31
+2023,Pickaway,Left Turn,0,3,29,23,203,82
+2023,Pickaway,Other Non-Collision,0,3,8,5,54,55
+2023,Pickaway,Other Object,0,0,0,0,6,6
+2023,Pickaway,Overturning,0,4,10,4,8,21
+2023,Pickaway,Parked Vehicle,0,4,2,4,39,39
+2023,Pickaway,Pedalcycles,0,0,2,0,2,2
+2023,Pickaway,Pedestrian,1,1,4,2,5,6
+2023,Pickaway,Right Turn,0,0,3,4,103,29
+2023,Pickaway,Sideswipe - Meeting,0,0,0,0,2,1
+2023,Pickaway,Sideswipe - Passing,2,4,23,7,318,131
+2023,Pickaway,Train,0,0,0,0,0,0
+2023,Pickaway,Unknown,0,0,1,0,11,7
+2023,Pickaway,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Pickaway,Other Non-Vehicle,0,0,0,0,0,0
+2023,Pickaway,Motorized,6,70,266,175,2167,1228
+2023,Pickaway,Non-motorized,1,1,6,2,7,8
+2023,Union,Rear End,0,3,65,79,629,259
+2023,Union,Angle,2,12,38,38,253,132
+2023,Union,Animal,0,1,17,8,332,242
+2023,Union,Backing,0,0,0,0,89,42
+2023,Union,Fixed Object,4,11,41,43,248,274
+2023,Union,Head On,0,6,5,4,33,18
+2023,Union,Left Turn,0,0,23,20,113,57
+2023,Union,Other Non-Collision,0,1,3,0,21,22
+2023,Union,Other Object,0,1,0,0,13,7
+2023,Union,Overturning,1,2,13,7,5,17
+2023,Union,Parked Vehicle,0,0,4,3,27,31
+2023,Union,Pedalcycles,0,0,1,0,6,3
+2023,Union,Pedestrian,1,0,2,1,3,4
+2023,Union,Right Turn,0,0,3,2,54,21
+2023,Union,Sideswipe - Meeting,0,0,0,0,0,0
+2023,Union,Sideswipe - Passing,0,3,25,16,391,154
+2023,Union,Train,0,0,0,0,0,0
+2023,Union,Unknown,0,0,2,0,13,12
+2023,Union,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,Union,Other Non-Vehicle,0,0,0,0,0,0
+2023,Union,Motorized,7,40,239,220,2221,1288
+2023,Union,Non-motorized,1,0,3,1,9,7
+2019,10-County,Angle,14,267,2384,1815,16303,7177
+2019,10-County,Animal,0,9,79,82,2815,2071
+2019,10-County,Backing,0,2,39,48,3813,1897
+2019,10-County,Falling From Or In Vehicle,0,0,0,1,1,1
+2019,10-County,Fixed Object,68,278,1371,791,6454,7005
+2019,10-County,Head On,29,123,439,277,1672,852
+2019,10-County,Left Turn,19,106,1137,786,7598,3286
+2019,10-County,Motorized,168,1110,9640,8373,106378,51381
+2019,10-County,Non-motorized,41,141,572,198,1230,947
+2019,10-County,Other Non-Collision,3,19,85,51,589,570
+2019,10-County,Other Non-Vehicle,0,0,0,0,0,0
+2019,10-County,Other Object,0,3,11,14,302,229
+2019,10-County,Overturning,11,32,149,55,115,272
+2019,10-County,Parked Vehicle,3,20,196,115,3872,3212
+2019,10-County,Pedalcycles,9,30,186,63,433,318
+2019,10-County,Pedestrian,32,111,386,135,797,629
+2019,10-County,Rear End,13,145,2696,3327,37743,14605
+2019,10-County,Right Turn,3,17,193,178,4240,1579
+2019,10-County,Sideswipe - Meeting,1,0,3,0,57,21
+2019,10-County,Sideswipe - Passing,2,84,834,822,20428,8345
+2019,10-County,Train,1,0,1,0,7,3
+2019,10-County,Unknown,1,5,23,11,369,256
+2020,10-County,Angle,25,208,2222,1592,12152,5604
+2020,10-County,Animal,2,10,93,63,2494,1994
+2020,10-County,Backing,0,5,42,35,2391,1299
+2020,10-County,Falling From Or In Vehicle,0,0,0,0,0,0
+2020,10-County,Fixed Object,75,283,1388,706,5785,6416
+2020,10-County,Head On,18,145,443,257,1394,762
+2020,10-County,Left Turn,17,121,955,653,4983,2306
+2020,10-County,Motorized,178,1108,8465,6412,68093,36473
+2020,10-County,Non-motorized,39,146,414,148,996,751
+2020,10-County,Other Non-Collision,1,19,94,45,554,547
+2020,10-County,Other Non-Vehicle,0,0,0,0,0,0
+2020,10-County,Other Object,0,1,10,5,228,165
+2020,10-County,Overturning,6,43,127,42,140,282
+2020,10-County,Parked Vehicle,3,29,222,121,2757,2357
+2020,10-County,Pedalcycles,2,37,120,43,301,227
+2020,10-County,Pedestrian,37,109,294,105,695,524
+2020,10-County,Rear End,18,134,1894,2024,20332,8343
+2020,10-County,Right Turn,0,17,196,201,2600,1084
+2020,10-County,Sideswipe - Meeting,1,0,2,0,46,19
+2020,10-County,Sideswipe - Passing,12,90,753,651,11900,5078
+2020,10-County,Train,0,0,1,0,6,3
+2020,10-County,Unknown,0,3,23,17,331,214
+2021,10-County,Angle,29,294,2484,1709,13065,6069
+2021,10-County,Animal,3,12,84,70,2643,2015
+2021,10-County,Backing,0,4,34,30,2971,1448
+2021,10-County,Falling From Or In Vehicle,0,0,0,0,0,0
+2021,10-County,Fixed Object,56,324,1346,734,5870,6574
+2021,10-County,Head On,36,150,473,256,1539,852
+2021,10-County,Left Turn,8,102,985,718,6088,2678
+2021,10-County,Motorized,180,1262,9142,6924,74716,39031
+2021,10-County,Non-motorized,43,169,439,160,1050,813
+2021,10-County,Other Non-Collision,3,18,107,42,572,589
+2021,10-County,Other Non-Vehicle,0,0,0,0,0,0
+2021,10-County,Other Object,0,2,14,8,239,192
+2021,10-County,Overturning,11,42,107,45,145,274
+2021,10-County,Parked Vehicle,6,39,232,174,2866,2482
+2021,10-County,Pedalcycles,4,37,141,48,342,256
+2021,10-County,Pedestrian,39,132,298,112,708,557
+2021,10-County,Rear End,14,157,2101,2175,21956,8798
+2021,10-County,Right Turn,2,21,231,193,2735,1149
+2021,10-County,Sideswipe - Meeting,0,2,6,5,48,22
+2021,10-County,Sideswipe - Passing,12,89,911,751,13605,5632
+2021,10-County,Train,0,1,1,0,6,5
+2021,10-County,Unknown,0,5,26,14,368,252
+2022,10-County,Angle,40,295,2239,1708,13347,6065
+2022,10-County,Animal,1,14,102,77,2706,2069
+2022,10-County,Backing,1,3,27,50,2732,1455
+2022,10-County,Falling From Or In Vehicle,0,0,0,0,0,0
+2022,10-County,Fixed Object,78,308,1182,698,5738,6210
+2022,10-County,Head On,18,108,537,242,1619,868
+2022,10-County,Left Turn,14,106,919,657,5876,2638
+2022,10-County,Motorized,188,1140,8462,6640,75568,38776
+2022,10-County,Non-motorized,42,156,441,165,1058,791
+2022,10-County,Other Non-Collision,1,25,99,52,675,641
+2022,10-County,Other Non-Vehicle,0,0,0,0,3,1
+2022,10-County,Other Object,1,1,16,9,217,178
+2022,10-County,Overturning,4,36,155,41,141,293
+2022,10-County,Parked Vehicle,4,26,217,163,2795,2354
+2022,10-County,Pedalcycles,1,34,106,32,275,190
+2022,10-County,Pedestrian,41,122,335,133,783,601
+2022,10-County,Rear End,14,104,1877,2062,22297,8743
+2022,10-County,Right Turn,1,14,209,174,2876,1180
+2022,10-County,Sideswipe - Meeting,0,0,0,3,98,26
+2022,10-County,Sideswipe - Passing,11,96,862,691,14156,5831
+2022,10-County,Train,0,0,2,1,4,4
+2022,10-County,Unknown,0,4,19,12,288,220
+2023,10-County,Angle,31,244,2202,1615,13262,5885
+2023,10-County,Animal,4,12,107,69,2628,2022
+2023,10-County,Backing,0,6,33,41,2945,1472
+2023,10-County,Falling From Or In Vehicle,0,0,0,0,0,0
+2023,10-County,Fixed Object,52,297,1135,626,5232,5626
+2023,10-County,Head On,31,136,432,299,1567,863
+2023,10-County,Left Turn,17,98,978,750,6137,2761
+2023,10-County,Motorized,192,1125,8252,6528,75993,38541
+2023,10-County,Non-motorized,38,165,520,208,1199,906
+2023,10-County,Other Non-Collision,5,35,82,40,607,571
+2023,10-County,Other Non-Vehicle,0,0,0,0,2,1
+2023,10-County,Other Object,0,3,15,3,198,165
+2023,10-County,Overturning,4,33,116,44,102,230
+2023,10-County,Parked Vehicle,1,22,193,121,3152,2683
+2023,10-County,Pedalcycles,3,32,160,51,350,266
+2023,10-County,Pedestrian,35,133,360,157,849,640
+2023,10-County,Rear End,25,138,1908,2067,22186,8725
+2023,10-County,Right Turn,4,14,186,177,2908,1187
+2023,10-County,Sideswipe - Meeting,0,1,2,3,36,19
+2023,10-County,Sideswipe - Passing,17,78,830,664,14644,6077
+2023,10-County,Train,0,0,3,1,7,6
+2023,10-County,Unknown,1,8,30,8,380,248
