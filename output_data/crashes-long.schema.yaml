@@ -1,0 +1,23 @@
+fields:
+  - name: YEAR
+    type: integer
+    description: Year in which the crashes occurred
+  - name: GEO_NAME
+    type: string
+    description: Name of the geography in which the crashes occurred
+  - name: CRASH_TYPE
+    type: string
+    description: Human-readable code describing the scenario type for the crashes, such as rear-end or sideswipe
+  - name: OUTCOME_TYPE
+    type: string
+    description: Human-readable code describing the outcome for the crashes, such as no injury or fatality
+  - name: INCIDENT_COUNT
+    type: integer
+    description: Number of incidents for the specified year, geography, crash type, and incident type
+primaryKey:
+  - YEAR
+  - GEO_NAME
+  - CRASH_TYPE
+  - OUTCOME_TYPE
+missingValues:
+  - ""

@@ -1,0 +1,16 @@
+name: crashes_county
+type: table
+title: MORPC Insights | Vehicle Crashes by County by Year
+description: Summary of vehicle crashes by county by year for most counties in the
+  MORPC region and several outside counties.  Crashes are summarized by scenario (rear
+  end, sideswipe, etc) and outcome (no injury, injury, fatality, etc).  This summary
+  was produced by MORPC from cleaned incident data provided by Ohio Department of
+  Transportation.
+profile: data-resource
+path: crashes-long.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: 1b626ce0e31730dd626c1f149050aa06
+bytes: 698060
+schema: crashes-long.schema.yaml
