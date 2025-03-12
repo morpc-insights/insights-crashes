@@ -1,0 +1,106 @@
+fields:
+  - name: Document_Number
+    type: string
+  - name: Year
+    type: integer
+  - name: SEVERITY_BY_TYPE_CD
+    type: string
+  - name: CRASH_TYPE_CD
+    type: string
+  - name: DISTRICT_NBR
+    type: string
+  - name: NLF_COUNTY_CD
+    type: string
+  - name: ODOT_CRASH_LOCATION_CD
+    type: string
+  - name: NLFID
+    type: string
+  - name: ODOT_LATITUDE_NBR
+    type: number
+  - name: ODOT_LONGITUDE_NBR
+    type: number
+  - name: ODOT_FIPS_CD
+    type: string
+  - name: ODOT_CITY_VILLAGE_TWP_NME
+    type: string
+  - name: ODOT_CITY_VILLAGE_TWP_CD
+    type: string
+  - name: ODPS_TOTAL_FATALITIES_NBR
+    type: integer
+  - name: INCAPAC_INJURIES_NBR
+    type: integer
+  - name: NON_INCAPAC_INJURIES_NBR
+    type: integer
+  - name: POSSIBLE_INJURIES_NBR
+    type: integer
+  - name: NO_INJURY_REPORTED_NBR
+    type: integer
+  - name: UNRESTRAIN_OCCUPANTS
+    type: integer
+  - name: NUMBER_OF_UNITS_NBR
+    type: integer
+  - name: NLF_JUR_CD
+    type: string
+  - name: FUNCTIONAL_CLASS_CD
+    type: string
+  - name: NHS_CD
+    type: string
+  - name: ODOT_DIV_UNDIV_IND
+    type: string
+  - name: ODOT_LANES_NBR
+    type: string
+  - name: OPER_ACCESS_CONTROL_CD
+    type: string
+  - name: FREEWAY_IND
+    type: string
+  - name: INTERSTATE_IND
+    type: string
+  - name: ODOT_MAINTAINED_HWY_IND
+    type: string
+  - name: MAINTENANCE_AUTHORITY_CD
+    type: string
+  - name: MONTH
+    type: string
+  - name: DAY_IN_WEEK_CD
+    type: string
+  - name: WEATHER_COND_CD
+    type: string
+  - name: ROAD_COND_PRIMARY_CD
+    type: string
+  - name: LIGHT_COND_PRIMARY_CD
+    type: string
+  - name: ROAD_CONTOUR_CD
+    type: string
+  - name: FHWA_RDWY_DEPARTURE_IND
+    type: string
+  - name: ODOT_INTERSECTION_REL_IND
+    type: string
+  - name: ODPS_ALCOHOL_IND
+    type: string
+  - name: ODPS_DRUG_IND
+    type: string
+  - name: ODPS_SCHOOL_ZONE_IND
+    type: string
+  - name: ODPS_MOTORCYCLE_IND
+    type: string
+  - name: ODPS_SPEED_IND
+    type: string
+  - name: ODPS_SENIOR_DRIVER_IND
+    type: string
+  - name: ODOT_YOUNG_DRIVER_IND
+    type: string
+  - name: ODPS_WORK_ZONE_IND
+    type: string
+  - name: ODPS_LOC_IN_WORK_ZONE_CD
+    type: string
+  - name: ODPS_TYPE_OF_WORK_ZONE_CD
+    type: string
+  - name: DISTRACTED_DRIVER_IND
+    type: string
+  - name: ODPS_CITY_VILLAGE_TWP_NME
+    type: string
+primaryKey:
+  - Document_Number
+missingValues:
+  - ""
+  - "NULL"

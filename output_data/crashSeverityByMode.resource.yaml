@@ -1,0 +1,15 @@
+name: crashes_severity_by_mode
+type: table
+title: MORPC Insights | Crash Severity by Mode
+description: Summary of vehicle crash severity by county by mode for counties in the
+  MORPC 10-county region. Variables include the likelihood of a fatal crash,         likelihood
+  of a serious injury crash, combined likelihood of a fatal or serious injury crash,
+  and the share of total crashes that is accounted for by the mode.
+profile: data-resource
+path: crashSeverityByMode.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: 782a4dfcd16bb010c1c4cdb7d5252b72
+bytes: 9840
+schema: crashSeverityByMode.schema.yaml

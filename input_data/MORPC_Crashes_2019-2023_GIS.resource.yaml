@@ -1,0 +1,12 @@
+name: crash_incidents
+type: table
+title: Vehicle Crash Data Extract, 2019-2023, cleaned (Ohio Dept of Transportation)
+description: 'The Ohio Department of Transportation maintains a database of vehicle crash indidents, including the injuries and fatalities that sometimes result from them. Each year, typically in the spring, MORPC receives an extract of this data that ODOT has cleaned. This resouce file describes the extract that incldes the years 2019-2023. The data is relatively large (>70MB) and therefore is not well suited for storage in GitHub. For lack of a better repository it is stored in ArcGIS Online at the following URL: https://www.arcgis.com/sharing/rest/content/items/97a9bde6b3b24358b52ca86964714f76/data'
+profile: data-resource
+path: MORPC_Crashes_2019-2023_GIS.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: a5003d925d3b3ce65692ace1cc5a6445
+bytes: 78219956
+schema: MORPC_Crashes_2019-2023_GIS.schema.yaml

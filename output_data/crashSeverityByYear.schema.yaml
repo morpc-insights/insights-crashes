@@ -1,0 +1,21 @@
+fields:
+  - name: GEONAME
+    type: string
+    description: Name of the geography in which the crashes occurred
+  - name: YEAR
+    type: integer
+    description: Year in which the crashes occurred
+  - name: VARIABLE
+    type: string
+    description: Name of the crash-related variable that describes the value.
+    constraints:
+        enum: ["GEO_YEAR_TOTAL","GEO_YEAR_FATAL_RATE","GEO_YEAR_SERIOUS_RATE"]
+  - name: VALUE
+    type: number
+    description: Value expressing the total crashes, fatal crash rate, or serious injury crash rate, as indicated by VARIABLE
+primaryKey:
+  - GEONAME
+  - YEAR
+  - VARIABLE
+missingValues:
+  - ""

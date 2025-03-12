@@ -1,0 +1,14 @@
+name: crashes_severity_by_type
+type: table
+title: MORPC Insights | Crash Severity by Crash Type
+description: Summary of vehicle crash severity by county by crash type for counties
+  in the MORPC 10-county region. Variables include the share of total crashes,         accounted
+  for by each type plus the share of fatal crashes and share of serious injury crashes.
+profile: data-resource
+path: crashSeverityByType.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: 6ecbfe50526e449fa24c2869c4249126
+bytes: 44088
+schema: crashSeverityByType.schema.yaml

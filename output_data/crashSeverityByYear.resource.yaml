@@ -1,0 +1,15 @@
+name: crashes_severity_by_year
+type: table
+title: MORPC Insights | Crash Severity by Year
+description: Summary of vehicle crash severity by county by year for counties in the
+  MORPC 10-county region. Variables include the total number of crashes,         the
+  rate of fatal crashes per 1000 crashes, and the rate of serious injury crashes per
+  1000 crashes.
+profile: data-resource
+path: crashSeverityByYear.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: d2e17c2d8eb0b3874346213e57e184ec
+bytes: 9015
+schema: crashSeverityByYear.schema.yaml

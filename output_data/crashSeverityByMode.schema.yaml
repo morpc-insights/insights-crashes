@@ -1,0 +1,23 @@
+fields:
+  - name: GEONAME
+    type: string
+    description: Name of the geography in which the crashes occurred
+  - name: MODE
+    type: string
+    description: Mode of transportation
+    constraints:
+        enum: ['Motor Vehicle', 'Pedalcycles', 'Pedestrian']
+  - name: VARIABLE
+    type: string
+    description: Name of the crash-related variable that describes the value.
+    constraints:
+        enum: ["GEO_MODE_FATAL_LIKELIHOOD", "GEO_MODE_SERIOUS_LIKELIHOOD", "GEO_MODE_FATALSERIOUS_LIKELIHOOD", "GEO_MODE_SHARE_OF_TOTAL"]
+  - name: VALUE
+    type: number
+    description: Value expressing the likelihood of a fatal crash, likelihood of a serious injury crash, combined likelihood of a fatal or serious injury crash, and the share of total crashes that is accounted for by the mode.
+primaryKey:
+  - GEONAME
+  - MODE
+  - VARIABLE
+missingValues:
+  - ""

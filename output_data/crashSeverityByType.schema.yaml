@@ -1,0 +1,25 @@
+fields:
+  - name: GEONAME
+    type: string
+    description: Name of the geography in which the crashes occurred
+  - name: CRASH_TYPE_CD
+    type: string
+    description: Human-readable code describing the type of crash
+    constraints:
+        enum: ['Angle', 'Animal', 'Backing', 'Fixed Object', 'Head On', 'Left Turn', 'Other Non-Collision', 'Other Object', 
+               'Overturning', 'Parked Vehicle', 'Pedalcycles', 'Pedestrian', 'Rear End', 'Right Turn', 'Sideswipe - Meeting', 
+               'Sideswipe - Passing', 'Train', 'Unknown', 'Falling From Or In Vehicle', 'Other Non-Vehicle']
+  - name: VARIABLE
+    type: string
+    description: Name of the crash-related variable that describes the value.
+    constraints:
+        enum: ["GEO_CRASHTYPE_SHARE_OF_FATAL", "GEO_CRASHTYPE_SHARE_OF_SERIOUS", "GEO_CRASHTYPE_SHARE_OF_TOTAL"]
+  - name: VALUE
+    type: number
+    description: Value expressing the shares of fatal crashes, serious injury crashes, and total crashes accounted for by each crash type
+primaryKey:
+  - GEONAME
+  - CRASH_TYPE_CD
+  - VARIABLE
+missingValues:
+  - ""
