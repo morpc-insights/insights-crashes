@@ -10,6 +10,6 @@ path: crashSeverityByYear.csv
 scheme: file
 format: csv
 mediatype: text/csv
-hash: 1d446068238ea7ce7d21387147e1bf74
-bytes: 8857
+hash: 4355897088765a2ad3baa7983b30852c
+bytes: 9023
 schema: crashSeverityByYear.schema.yaml
