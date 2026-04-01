@@ -1,4 +1,5 @@
 input_data/MORPC_Crashes_2019-2023_GIS.csv
+output_data/charts/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

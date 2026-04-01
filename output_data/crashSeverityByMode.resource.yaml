@@ -10,6 +10,6 @@ path: crashSeverityByMode.csv
 scheme: file
 format: csv
 mediatype: text/csv
-hash: 782a4dfcd16bb010c1c4cdb7d5252b72
-bytes: 9840
+hash: fddd96785ddb18d3347a6d1e6f8c7fc0
+bytes: 9879
 schema: crashSeverityByMode.schema.yaml
